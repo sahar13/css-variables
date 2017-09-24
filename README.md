@@ -3,6 +3,8 @@
 <p>Day 3 of Wes Bos's challenge to build 30 things in 30 days using vallina JavaScript.</p>
 <p>I created a webpage that allows users to adjust an image's CSS directly from the browser.</p>
 
+<img src='css.png'>
+
 <h2>Lessons Learned</h2>
 
 <h3>CSS</h3>
