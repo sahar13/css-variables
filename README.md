@@ -17,3 +17,7 @@
 <li>Event listeners call on a function that gets root element, which is then styled according to each input's name and (user-adjusted) value.</li>
 </ol>
 <p>Note: Because the values for the blur and padding properties require the 'px' suffix, a variable is created to store the input's suffix. The suffix only exists for these properties, in the input element's 'data-sizing' attribute.<p>
+
+<h2>Links</h2>
+<p>Wes Bos's Tutorial: www.javascript30.com</p>
+<p>Live on Codepen: https://codepen.io/sahar13/pen/VMmPap</p>
